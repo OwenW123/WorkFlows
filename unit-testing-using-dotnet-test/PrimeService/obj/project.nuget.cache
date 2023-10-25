@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lo2Qr/g1UQk7fwF9QhQsfZFExeQi8C6QCKgQSJP2J5hbsbWXrpkuypAgWuJAoGmLk+t3+lx3/826NRAyTjJN5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2301082\\OneDrive - Abertay University\\Software Dev\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2301082\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\2301082\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\2301082\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
